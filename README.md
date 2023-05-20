@@ -1,3 +1,3 @@
-🔗CodeGeniusAcademy](https://abdelrahman-haroun.github.io/Code-GeniusAcademy/)
+[CodeGeniusAcademy](https://abdelrahman-haroun.github.io/Code-GeniusAcademy/)
 
 
